@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: accessibility-focus-order-auditor
+version: 0.1.0
+description: "Reviews keyboard focus evidence for unreachable controls and order changes."
+skills:
+  - accessibility-focus-order-auditor-skill
+tools:
+  - audit-accessibility-focus-order-auditor
+tags:
+  - Education
+  - evidence-driven
